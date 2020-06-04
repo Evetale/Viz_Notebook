@@ -15,5 +15,7 @@
     *Scatterplot is used to assit indentify the correlation between two factors*
 7. Histogram  
     *Histogram is used to check the data distribution (Normal or skewed or evenly)*
+8. Heatmap  
+    *
  
    
