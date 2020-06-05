@@ -16,6 +16,6 @@
 7. Histogram  
     *Histogram is used to check the data distribution (Normal or skewed or evenly)*
 8. Heatmap  
-    *
+    *Heatmap is used to *
  
    
